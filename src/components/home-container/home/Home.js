@@ -12,7 +12,7 @@ function Home() {
           <Chip
             size="medium"
             label="Today NFTS"
-            color="primary"
+          style={{background: "#9C0786", color: "white"}}
             clickable
           />
 

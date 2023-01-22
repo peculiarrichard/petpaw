@@ -9,13 +9,13 @@ import {
   Typography,
 } from '@material-ui/core'
 import './Footer.css'
-import logo from '../../../images/logo.jpg'
+import logo from '../../../images/logo.png'
 
 function Footer() {
   return (
     <StylesProvider injectFirst>
       <footer>
-        <AppBar className="primary-color marginT-3 pad-2" position="static">
+        <AppBar className="primary-color marginT-3 pad-2" position="static" style={{background: "black"}}>
           <Grid component={Container} container>
             <Grid item xs={12} sm={3}>
               <img src={logo} alt="logo" className="footer-logo" />
@@ -56,7 +56,7 @@ function Footer() {
 
             <Grid item xs={12} sm={9}>
               <Typography className="copyright">
-                Copyright &copy; {new Date().getFullYear()} PetGram
+                Copyright &copy; {new Date().getFullYear()} PetPaw
               </Typography>
             </Grid>
           </Grid>

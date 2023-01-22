@@ -1,5 +1,6 @@
 .grow {
     flex-grow: 1;
+    
 }
 
 .whiteLink {
@@ -9,6 +10,7 @@
     font-weight: 400;
     line-height: 1.5;
     text-transform: capitalize;
+    margin: 0.8rem;
 }
 
 .whiteLink:nth-last-of-type() {
@@ -59,7 +61,7 @@
 }
 
 .connect-wallet-btn {
-    background-color: #06c2fbcc;
+    background-color: #9C0786;
     color: white;
     font-weight: 800;
     text-transform: none;
