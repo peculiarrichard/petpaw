@@ -25,6 +25,6 @@ yarn-error.log*
 # .env files
 .env
 
-# DNX
+#
 package-lock.json
 yarn.lock
