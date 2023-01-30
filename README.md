@@ -1,5 +1,10 @@
 ### PetPaw - A decentralized social media application for pet lovers to mint their pets as NFTs. Users can browse cute photos of their favorite pets, see details of a specific pet, create a post and earn NFTs.
 
+## See deployed app here: 
+#[PetPaw](https://petpaw-two.vercel.app)
+
+Please note that this DApp is optimized for desktop use only as I am currently still working on the mobile responsiveness.
+
 Installation & Set Up 
 
 1. First step is to add metamask plugin to your supported browser (chrome).
